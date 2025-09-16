@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/a2324414-9717-43fd-b1db-0e7533a88ef6](https://sorenwesthorup.github.io/GamerPC/)
+**URL**: https://sorenwesthorup.github.io/GamerPC/
 
 ## How can I edit this code?
 
